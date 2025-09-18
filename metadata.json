@@ -1,0 +1,8 @@
+{
+  "name": "Campfire Connect",
+  "description": "A 2D social hub where users, represented by soldiers and civilians, can explore a camp and enter tents to join real-time chat and simulated video calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
